@@ -38,8 +38,8 @@ This Python script converts a series of PNG images into a video file, where each
      ```bash
      python convert_images_to_video.py
 6. The script will generate an output video named output_video.mp4 in the same directory as the script.
-
-Customization
+   
+##Customization:: 
     You can adjust the frame_duration variable in the script to change the duration each image is displayed in the video. The default is set to 5 seconds (5000 milliseconds).
 
 Author
